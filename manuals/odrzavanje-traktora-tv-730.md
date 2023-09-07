@@ -37,7 +37,7 @@ Osim svakodnevnog pregleda koji obavljamo zbog sigurnosti pri radu i da ujedno p
 1. Zamjeniti uložak filtera za gorivo.
 1. Zamjeniti uložal filtera za ulje.
 
-## NAKON SVAKIH 300 SATI RADA:
+## NAKON SVAKIH 500 SATI RADA:
 
 1. Zamjeniti ulje u mjenjaču brzina (prednji trap), količina ulja je 10 litara.
 1. Zamjeniti ulje u zadnjem trapu, količina ulja je 10 litara.
